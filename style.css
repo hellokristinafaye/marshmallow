@@ -34,5 +34,10 @@
     padding: 80px 200px;
 }
 .left {
-    flex-basis: 40%;
+    flex-basis: 49%;
+}
+.hero-title {
+    color: var(--bright-color);
+    font-size: 48px;
+    font-weight: 900;
 }
