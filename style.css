@@ -112,9 +112,10 @@
 }
 .CTA-container {
     background: var(--button-color);
-    padding: 25px 60px;
+    padding: 25px 150px;
     display: flex;
     color: var(--bright-color);
+    border-radius: 15px;
 }
 .CTA-text {
     font-size: 20px;
