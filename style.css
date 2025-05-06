@@ -57,3 +57,10 @@
 .right {
     flex-basis: 45%;
 }
+.img-placeholder-text {
+    color: var(--bright-color);
+    background: grey;
+    width: 100%;
+    text-align: center;
+    padding: 100px 30px;
+}
