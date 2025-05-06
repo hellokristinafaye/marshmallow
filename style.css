@@ -9,4 +9,12 @@
     --mid-color: #E5E7EB;
     --button-color: #3882F6;
 }
+.navbar {
+    background: var(--dark-color);
+    color: var(--bright-color);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 200px;
+}
 
