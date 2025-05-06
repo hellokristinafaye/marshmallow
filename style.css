@@ -105,3 +105,8 @@
     font-style: italic;
     color: var(--dark-color);
 }
+.thor {
+    color: var(--dark-color);
+    font-weight: bold;
+    text-align: right;
+}
