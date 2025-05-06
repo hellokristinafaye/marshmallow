@@ -41,3 +41,8 @@
     font-size: 48px;
     font-weight: 900;
 }
+.hero-text {
+    font-size: 18px;
+    color: var(--mid-color);
+    margin: 15px 0;
+}
