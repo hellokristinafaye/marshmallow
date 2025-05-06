@@ -94,3 +94,8 @@
     border: 3px solid var(--button-color);
     border-radius: 15px;
 }
+
+.quote-container {
+    background: var(--mid-color);
+    padding: 150px 400px;
+}
