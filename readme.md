@@ -12,6 +12,8 @@ Features:
 
 Notes:
 
+- Took 1 hour.
+
 Challenges:
 
 Future Development:
