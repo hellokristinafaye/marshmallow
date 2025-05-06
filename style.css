@@ -17,4 +17,8 @@
     justify-content: space-between;
     padding: 15px 200px;
 }
+.nav-link {
+    color: var(--bright-color);
+    text-decoration: none;
+}
 
