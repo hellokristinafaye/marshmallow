@@ -72,6 +72,14 @@
     text-align: center;
     padding: 40px;
 }
+
+.box-container {
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: 20px auto;
+ 
+}
 .box-unit {
     width: 150px;
     text-align: center;
