@@ -54,3 +54,6 @@
     outline: none;
     border: none;
 }
+.right {
+    flex-basis: 45%;
+}
