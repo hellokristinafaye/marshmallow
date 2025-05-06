@@ -110,3 +110,8 @@
     font-weight: bold;
     text-align: right;
 }
+.CTA-container {
+    background: var(--button-color);
+    padding: 25px 60px;
+    display: flex;
+}
