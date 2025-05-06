@@ -134,3 +134,10 @@
     position: relative;
     left: 190px;
 }
+
+.copyright-text {
+    background: var(--dark-color);
+    color: var(--mid-color);
+    text-align: center;
+    padding: 30px;
+}
