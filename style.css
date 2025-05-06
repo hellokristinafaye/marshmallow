@@ -118,7 +118,19 @@
     border-radius: 10px;
     margin: 100px 200px;
 }
+.CTA-left {
+    flex-basis: 60%;
+}
 .CTA-text {
     font-size: 20px;
     font-weight: 100;
+}
+.CTA-right {
+    flex-basis: 40%;
+}
+.CTA-right button {
+    border: 2px solid var(--bright-color);
+    /* margin: 0 70px; */
+    position: relative;
+    left: 190px;
 }
