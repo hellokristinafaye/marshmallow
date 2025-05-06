@@ -28,3 +28,7 @@
     margin: 20px;
 }
 
+.container {
+    display: flex;
+    background: var(--dark-color);
+}
