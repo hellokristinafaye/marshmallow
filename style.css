@@ -31,4 +31,8 @@
 .container {
     display: flex;
     background: var(--dark-color);
+    padding: 80px 200px;
+}
+.left {
+    flex-basis: 40%;
 }
