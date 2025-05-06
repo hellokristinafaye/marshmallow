@@ -114,4 +114,9 @@
     background: var(--button-color);
     padding: 25px 60px;
     display: flex;
+    color: var(--bright-color);
+}
+.CTA-text {
+    font-size: 20px;
+    font-weight: 100;
 }
